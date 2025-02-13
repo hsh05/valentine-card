@@ -68,7 +68,7 @@ body {
     text-align: center;
     line-height: 25px;
     top: 19px;
-    left: 85px;
+    left: 25%;
     color: #003049;
 }
 
@@ -78,7 +78,7 @@ body {
     height: 30px;
     margin: 0 10px;
     position: relative;
-    top: 110px;
+    top: 115px;
     left: 45%;
     transform: translateX(-50%) rotate(-45deg);
     width: 30px;
